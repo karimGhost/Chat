@@ -1,0 +1,25 @@
+name: karrayy_s_application4
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=3.2.6 <4.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  sendbird_sdk: ^3.2.19
+
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  intl: ^0.18.0
+  file_picker: ^6.1.1
+  open_filex: ^4.4.0
+  mime: ^1.0.5
+  image_picker: ^1.0.7
+  flutter_chat_types: ^3.6.2
+  flutter_chat_ui: ^1.6.12
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  
